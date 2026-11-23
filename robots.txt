@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digitalna-sigurnost.com.hr/sitemap.xml
